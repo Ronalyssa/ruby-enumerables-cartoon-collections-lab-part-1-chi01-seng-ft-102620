@@ -15,5 +15,5 @@ def list_dwarves(array)
   array.each do |element|
     count += 1
     puts "Hello #{count}. #{element}!"
-end
+  end
 end
